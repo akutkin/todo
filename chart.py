@@ -124,7 +124,7 @@ def chart(fname):
     plt.draw()
 
 #    plt.savefig('gantt.pdf')
-#    plt.show()
+    plt.show()
 
 if __name__ == '__main__':
 
