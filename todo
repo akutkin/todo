@@ -1,0 +1,31 @@
+#Task  [Start]  Deadline  [Priority 1-10]
+#=======================================
+
+# work tasks
+Report-local  2018-05-31 1
+Report-conf   2018-06-11 1
+Tickets       2018-05-28 2
+
+
+# other:
+Paper_draft 2018-06-01 3
+Operation   2018-06-15 2018-09-01 6
+Trip        2018-08-01 2018-08-31 9
+
+
+# TIPS:
+
+# start time is optional -- if omitted NOW is used
+# priority is optional -- 1 - the highest, 10 - lowest (default 5)
+# in default colorscheme (autumn) 1 - red, 10 - yellow
+
+# comment'em out:
+# test 2018-04-12 3
+
+# You can set start/stop time with more details, e.g:
+some-process   2018-06-15T12:30 2018-06-25T13:15:22 3
+
+# append from console with >> to this list...
+
+# uncomment savefig - to save the figure )
+
